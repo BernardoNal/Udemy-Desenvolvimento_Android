@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Abas</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Inscrições</string>
+    <string name="tab_text_3">Em Alta</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

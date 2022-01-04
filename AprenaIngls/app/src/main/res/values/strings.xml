@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aprena Inglês</string>
+    <string name="tab_text_1">Bichos</string>
+    <string name="tab_text_2">Números</string>
+    <string name="tab_text_3">Vogais</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
