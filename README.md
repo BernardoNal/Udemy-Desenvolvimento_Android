@@ -4,7 +4,7 @@
          Atividades Realizadas nos Projetos
          =================
 <!--ts-->
-           ATMConsultoria: Criação de aba lateral e botões que redirecionam para sites ou aplicativos 
+           [ATMConsultoria]: Criação de aba lateral e botões que redirecionam para sites ou aplicativos 
            Aba: Criação de abas 
            AprenaIngls: Aplicação de abas e uso de respostas ao toque na tela
            BD_SQLite: Uso da ferramenta Banco de Dados SQLite
