@@ -1,9 +1,9 @@
 # Udemy-Desenvolvimento_Android
 ## Tarefas realizadas no curso de Desenvolvimento Android com uso da IDE AndroidStudio
-=================
-<!--ts-->
 
          Atividades Realizadas nos Projetos
+         =================
+<!--ts-->
            ATMConsultoria: Criação de aba lateral e botões que redirecionam para sites ou aplicativos 
            Aba: Criação de abas 
            AprenaIngls: Aplicação de abas e uso de respostas ao toque na tela
