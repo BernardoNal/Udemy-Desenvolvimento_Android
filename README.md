@@ -26,4 +26,4 @@
            ToogleeSwitch: Uso da ferramenta Tooglee Button e Switch
            alcoolxGasolina: App realiza o cálculo para dizer qual compensa mais gasolina ou álcool 
      
-     <!--te-->
+<!--te-->
